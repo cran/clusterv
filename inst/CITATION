@@ -1,0 +1,15 @@
+bibentry(
+  key      = "valentini2005clusterv",
+  bibtype  = "Article",
+  title    = "Clusterv: a tool for assessing the reliability of clusters discovered in DNA microarray data",
+  author   = "Valentini, Giorgio",
+  journal  = "Bioinformatics",
+  year     = "2005",
+  volume   = "22",
+  number   = "3",
+  month    = "12",
+  issn     = "1367-4803",
+  pages    = "369-370",
+  doi      = "10.1093/bioinformatics/bti817",
+  url      = "https://doi.org/10.1093/bioinformatics/bti817"
+)
