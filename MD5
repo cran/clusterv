@@ -1,4 +1,4 @@
-5542325738a72216def0abbd339a3075 *DESCRIPTION
+6672d2789b845b3618483cc509c4eefb *DESCRIPTION
 121583d46758cd64889d983d5d9e9fc2 *NAMESPACE
 5fc65a43d523c842440023bd55bd84ae *R/AC.index.R
 a7dc6c0a8466bc0d2b69630252912542 *R/Achlioptas.hclustering.R
@@ -54,7 +54,7 @@ ffc8b868bc878b0f466f9b97a9792e17 *R/rand.norm.generate.R
 7d7a2e49c5bcbd67be4df05068765682 *R/rand.norm.generate.full.R
 498019d827cfcdce7ecad41e08250af5 *R/random.component.selection.R
 5ea844fa2d9627d9df8c405d1995a91b *R/random.subspace.R
-f45fe637ca0b13d13c1f6858bfa6171b *build/vignette.rds
+ffd2b56797d3dd93d3dbf47f6ae379bb *build/vignette.rds
 a406144a7d62916af1abfadf5c796066 *inst/CITATION
 db0405b4a511e75d336685b23e908d5d *inst/doc/clusterv-manual.pdf
 35f9368b27d9b1944197e02548c7b2e8 *inst/doc/clusterv-tutorial.pdf

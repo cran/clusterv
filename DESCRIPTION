@@ -1,11 +1,11 @@
 Package: clusterv
 Type: Package
-Version: 1.1.1
+Version: 1.1.2
 Title: Assessment of Cluster Stability by Randomized Maps
 Authors@R: c(
     person("Giorgio", "Valentini", email = "valentini@di.unimi.it", role = "aut"),
-    person("Jessica", "Gliozzo", email = "jessica.gliozzo@unimi.it", role = "cre"))
-Maintainer: Jessica Gliozzo <jessica.gliozzo@unimi.it>
+    person("Jessica", "Gliozzo", email = "jessica.gliozzo@gmail.com", role = "cre"))
+Maintainer: Jessica Gliozzo <jessica.gliozzo@gmail.com>
 Description: The reliability of clusters is estimated using random projections. 
     A set of stability measures is provided to assess the reliability of the clusters 
     discovered by a generic clustering algorithm. 
@@ -18,9 +18,10 @@ Encoding: UTF-8
 Imports: stats, MASS, cluster
 Suggests: R.rsp
 VignetteBuilder: R.rsp
+Config/roxygen2/version: 8.1.0
 NeedsCompilation: no
-Packaged: 2025-05-12 13:22:34 UTC; jessica
+Packaged: 2026-09-10 08:20:56 UTC; jessica
 Author: Giorgio Valentini [aut],
   Jessica Gliozzo [cre]
 Repository: CRAN
-Date/Publication: 2025-05-14 08:30:02 UTC
+Date/Publication: 2026-09-10 17:50:08 UTC
